@@ -1,4 +1,14 @@
 
 .lista {
     background-color: rgb(185, 137, 230);
+    
+}
+
+.itens {
+    font-family: monospace;
+    text-decoration: dotted;
+}
+
+.alinha {
+    background-color: rgb(120, 182, 161);
 }
