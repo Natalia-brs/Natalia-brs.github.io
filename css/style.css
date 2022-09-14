@@ -12,3 +12,9 @@
 .alinha {
     background-color: rgb(120, 182, 161);
 }
+
+#Nome {
+    font-family: monospace;
+    text-decoration: underline;
+    color: rgb(60, 60, 158);
+}
