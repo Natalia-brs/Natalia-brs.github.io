@@ -15,14 +15,17 @@ h1 {
     border-radius: 50px;
     width: 320px;
     position: absolute;
-    top: 600px;
+    top: 680px;
     
 }
 
 .softs {
     background-color: rgb(161, 169, 238);
     position: absolute;
-    top: 450px;
+    top: 500px;
+    padding: 20px 30px;
+    border-radius: 50px;
+    width: 320px;
 }
 
 .foto { 
