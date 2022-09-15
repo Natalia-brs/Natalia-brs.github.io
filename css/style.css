@@ -17,6 +17,13 @@ h1 {
     
 }
 
+.foto { 
+    border-radius: 10%;
+    margin: 15px 20px;
+    width: 300px;
+
+}
+
 .itens {
     font-family: monospace;
     text-decoration: dotted;
