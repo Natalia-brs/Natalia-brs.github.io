@@ -14,13 +14,23 @@ h1 {
     padding: 20px 30px;
     border-radius: 50px;
     width: 320px;
+    position: absolute;
+    top: 600px;
     
+}
+
+.softs {
+    background-color: rgb(161, 169, 238);
+    position: absolute;
+    top: 450px;
 }
 
 .foto { 
     border-radius: 10%;
     margin: 15px 20px;
-    width: 300px;
+    width: 200px;
+    float: left;
+
 
 }
 
@@ -31,6 +41,8 @@ h1 {
 
 .alinha {
     background-color: rgb(149, 190, 177);
+    float: left;
+    top: 1000px;
 }
 
 .cidade {
@@ -41,6 +53,7 @@ h1 {
 
 .descrição {
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 #Nome {
