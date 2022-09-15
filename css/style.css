@@ -42,6 +42,8 @@ margin: 30px;
     margin: 15px 20px;
     width: 200px;
     float: left;
+    position: absolute;
+    top: 200px ;
 
 
 }
@@ -55,8 +57,9 @@ margin: 30px;
     background-color: rgb(149, 190, 177);
     position: absolute;
     right: 198px;
-    top: 650px;
-    
+    top: 590px;
+    padding: 20px 30px;
+    border-radius: 50px;
     
 }
 
@@ -68,13 +71,17 @@ margin: 30px;
 
 .descrição {
     font-family: Arial, Helvetica, sans-serif;
-    
+    position: absolute;
+    right: 450px;
+    top: 350px;
 }
 
-#Nome {
+.Nome {
     font-size: 15px;
     font-family: monospace;
     text-decoration: underline;
     color: rgb(60, 60, 158);
-    
+    position: absolute;
+    top: 420px;
+    margin: 45px;
 }
