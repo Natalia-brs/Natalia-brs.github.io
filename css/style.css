@@ -1,12 +1,12 @@
 
 body {
-    background-color: rgb(240, 245, 233); 
+    background-color: rgb(236, 247, 221); 
     
 }
 
 
 h1 {
-    color: rgb(138, 41, 41);
+    color: rgb(102, 150, 40);
     position: absolute;
     right: 550px;
 }
@@ -15,9 +15,8 @@ h1 {
     text-decoration: none;
     position: absolute;
     top: 75px ;
-    color: black;
+    color:white;
     padding: 5px;
-    background-color: rgb(177, 122, 228);
     border-radius: 10px;
 }
 
@@ -112,9 +111,14 @@ padding: 30px;
 }
 
 .descrição:hover {
-    background-color: aquamarine;
+    background-color: rgb(104, 175, 113);
     border-radius: 200px;
     padding: 10px;
     right: 250px;
+}
+
+.button:hover {
+    background-color: rgb(177, 122, 228);
+
 }
  
