@@ -11,6 +11,16 @@ h1 {
     right: 550px;
 }
 
+.button {
+    text-decoration: none;
+    position: absolute;
+    top: 75px ;
+    color: black;
+    padding: 5px;
+    background-color: rgb(177, 122, 228);
+    border-radius: 10px;
+}
+
 .lista {
     background-color: rgb(161, 169, 238);
     padding: 20px 30px;
@@ -24,13 +34,17 @@ h1 {
 
 .links {
 position: absolute;
-margin: -60px;
+margin: -70px;
 background-color: rgb(149, 190, 177);
 right: 610px;
-top: 790px;
-border-radius: 80px;
+top: 810px;
+border-radius: 50px;
 padding: 30px;
+
+
 }
+
+
 
 .softs {
     background-color: rgb(161, 169, 238);
@@ -40,6 +54,7 @@ padding: 30px;
     border-radius: 50px;
     width: 320px;
     margin: 30px;
+    
 }
 
 .foto { 
@@ -50,7 +65,9 @@ padding: 30px;
     position: absolute;
     top: 80px;
     margin: 50px;
-
+    padding: 5px;
+    border-color: rgb(201, 23, 23);
+    background-color: rgb(62, 128, 53);
 }
 
 .itens {
@@ -90,11 +107,13 @@ padding: 30px;
     text-decoration: underline;
     color: rgb(60, 60, 158);
     position: absolute;
-    top: 450px;
+    top: 470px;
     margin: 25px 60px;
 }
 
-p:hover {
+.descrição:hover {
     background-color: aquamarine;
     border-radius: 200px;
+    padding: 10px;
 }
+ 
