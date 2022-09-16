@@ -24,9 +24,12 @@ h1 {
 
 .links {
 position: absolute;
-top: 880px;
-margin: 30px;
-  
+margin: 20px;
+background-color: rgb(149, 190, 177);
+right: 610px;
+top: 740px;
+border-radius: 80px;
+padding: 30px;
 }
 
 .softs {
@@ -59,9 +62,9 @@ margin: 30px;
     background-color: rgb(149, 190, 177);
     position: absolute;
     right: 198px;
-    top: 560px;
+    top: 482px;
     padding: 20px 30px;
-    border-radius: 50px;
+    border-radius: 80px;
     margin: 40px;
     
 }
@@ -78,6 +81,7 @@ margin: 30px;
     right: 350px;
     top: 280px;
     margin: -20px;
+    
 }
 
 .Nome {
@@ -88,5 +92,9 @@ margin: 30px;
     position: absolute;
     top: 450px;
     margin: 25px 60px;
+}
 
+p:hover {
+    background-color: aquamarine;
+    border-radius: 200px;
 }
