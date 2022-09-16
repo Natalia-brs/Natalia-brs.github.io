@@ -24,10 +24,10 @@ h1 {
 
 .links {
 position: absolute;
-margin: 20px;
+margin: -60px;
 background-color: rgb(149, 190, 177);
 right: 610px;
-top: 740px;
+top: 790px;
 border-radius: 80px;
 padding: 30px;
 }
