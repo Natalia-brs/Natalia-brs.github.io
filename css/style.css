@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#foto {
+    width: 250px;
+    display:inline-block;
+    border: 2px solid red;
+   
+}
+
+#header {
+    
+    color: aliceblue;
+    background-image: url(../fotos/fundo.jpg);
+    background-image: cover;
+    background-position: 80% 55%;
+    padding: 50px;
+    
+}
+
+#header-text {
+    display: inline-block;
+     width: 50%;
+     padding: 40px;
+}
