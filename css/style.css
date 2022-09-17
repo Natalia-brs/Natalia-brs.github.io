@@ -7,7 +7,7 @@
 #foto {
     width: 250px;
     display:inline-block;
-    border: 2px solid red;
+    border: 2px solid aqua;
    
 }
 
@@ -34,4 +34,13 @@
     top: 42%;
     right: 85%;
     
+}
+
+.name-text:hover {
+    color: aqua;
+}
+
+#city-text {
+    text-decoration: underline;
+    color: aqua;
 }
