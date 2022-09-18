@@ -4,11 +4,13 @@
     padding: 0;
 }
 
+
+
 #foto {
     width: 250px;
     display:inline-block;
-    border: 2px solid aqua;
-   
+    border: 3px solid aqua;
+    border-radius: 10%;
 }
 
 #header {
@@ -17,8 +19,7 @@
     background-image: url(../fotos/fundo.jpg);
     background-image: cover;
     background-position: 80% 55%;
-    padding: 50px;
-    
+    padding: 50px; 
 }
 
 #header-text {
@@ -30,9 +31,9 @@
 
 .name-text {
     text-decoration: underline;
-    position: absolute;
-    top: 42%;
-    right: 85%;
+   padding-top: 25px;
+   padding-bottom: 25px;
+    
     
 }
 
@@ -44,3 +45,29 @@
     text-decoration: underline;
     color: aqua;
 }
+ .list-container {
+    text-align: center;
+ }
+
+ .container {
+    background-color: blue;
+    width: 30%;
+    display: inline-block;
+    padding: 5%;
+    
+ }
+
+
+ ul {
+    list-style: none;
+ }
+
+ ul li {
+    padding: 2px;
+
+
+ }
+
+ .curious {
+    padding-top: 1%;
+ }
