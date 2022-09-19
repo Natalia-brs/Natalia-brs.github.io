@@ -6,7 +6,6 @@
 
 body {
    background-color: rgb(221, 241, 235);
-
     }
 
 
@@ -18,7 +17,6 @@ body {
     }
 
 #header {
-    
     color: aliceblue;
     background-image: url(../fotos/fundo.jpg);
     background-image: cover;
