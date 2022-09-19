@@ -2,12 +2,11 @@
 * {
     margin: 0;
     padding: 0;
-}
+    }
 
 body {
-background-color: rgb(221, 241, 235);
-
-}
+   background-color: rgb(221, 241, 235);
+    }
 
 
 #foto {
@@ -15,44 +14,42 @@ background-color: rgb(221, 241, 235);
     display:inline-block;
     border: 3px solid aqua;
     border-radius: 10%;
-}
+    }
 
 #header {
-    
     color: aliceblue;
     background-image: url(../fotos/fundo.jpg);
     background-image: cover;
     background-position: 80% 55%;
     padding: 50px; 
-}
+    }
 
-#header-text {
+.header-text {
     display: inline-block;
-     width: 50%;
-     padding: 40px;
-     font-weight: bold;
-}
+    width: 50%;
+    padding: 40px;
+    font-weight: bold;
+    }
 
-.name-text {
+#name-text {
     text-decoration: underline;
-   padding-top: 25px;
-   padding-bottom: 25px;
-    
-    
-}
+    padding-top: 25px;
+    padding-bottom: 25px; 
+    }
 
-.name-text:hover {
+#name-text:hover {
     color: aqua;
-}
+    }  
 
 #city-text {
     text-decoration: underline;
     color: aqua;
-}
+    }
+
  .list-container {
     text-align: center;
     padding: 4%;
- }
+    }
 
  .container {
     color: wheat;
@@ -61,41 +58,64 @@ background-color: rgb(221, 241, 235);
     display: inline-block;
     padding: 5%;
     border-radius: 25%;
-    
- }
+    }
 
  ul {
     list-style: none;
-    font-weight: bold;
-   
- }
+    font-style: italic;
+    }
 
  ul li {
     padding: 2px;
-   
- }
+    }
 
  .curious {
     margin-top: 3%;
- }
+    }
 
  .sites {
     position: absolute;
     left: 350px;
     top: 100px;
- }
+    }
 
  li a {
     text-decoration: none;
     color: antiquewhite;
- }
+    }
 
  a:active {
     color: aqua;
- }
+    }
 
  li:hover {
-    color: aqua;
- }
+    color: rgb(65, 224, 126);
+    } 
 
- 
+#list-title3 {
+    color: aqua;
+    font-size: 150%;
+    font-weight: bold;
+    }   
+
+#list-title2 {
+    color: aqua;
+    font-size: 150%;
+    font-weight: bold;
+    }
+
+#list-title1 {
+    color: aqua;
+    font-size: 150%;
+    font-weight: bold;
+    }
+
+.curious {
+    width: 50%;
+    }
+
+#link-title {
+    color: aqua;
+    font-size: 150%;
+    font-weight: bold;
+    }
