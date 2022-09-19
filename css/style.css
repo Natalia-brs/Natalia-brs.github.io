@@ -96,25 +96,34 @@ background-color: rgb(221, 241, 235);
  }
 
  li:hover {
-    color: rgb(102, 223, 148);
+    color: rgb(65, 224, 126);
  }
 
 #list-title3 {
  color: aqua;
  font-size: 150%;
+ font-weight: bold;
  
 }
 
 #list-title2 {
 color: aqua;
 font-size: 150%;
+font-weight: bold;
 }
 
 #list-title1 {
 color: aqua;
 font-size: 150%;
+font-weight: bold;
 }
 
 .curious {
    width: 50%;
+}
+
+#link-title {
+   color: aqua;
+   font-size: 150%;
+   font-weight: bold;
 }
